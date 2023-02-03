@@ -34,7 +34,4 @@ type Record {
 	description: String!
 	tags: String
 	note: String
-
-	// createdAt: DateTime!
-	// updatedAt: DateTime!
 }

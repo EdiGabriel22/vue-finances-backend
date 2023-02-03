@@ -1,0 +1,23 @@
+{
+  "name": "vue-finances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdiGabriel22/vue-finances.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdiGabriel22/vue-finances/issues"
+  },
+  "homepage": "https://github.com/EdiGabriel22/vue-finances#readme",
+  "dependencies": {
+    "prisma-client-lib": "1.28.3"
+  }
+}
